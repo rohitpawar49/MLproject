@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+xgboost
+catboost
 #-e .      #To connect with setup.py file we this code
